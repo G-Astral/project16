@@ -1,0 +1,47 @@
+{
+  "stickers": [
+    {
+      "title": "Xxx",
+      "text": "zx",
+      "type": "5",
+      "typeId": 5,
+      "date": 1634119606413,
+      "lastEdited": 1634119606413,
+      "id": 21
+    },
+    {
+      "title": "456",
+      "text": "xcvbn",
+      "type": {
+        "id": 2,
+        "name": "Time123"
+      },
+      "typeId": 2,
+      "date": 1634119695997,
+      "lastEdited": 1634119701991,
+      "id": 22
+    }
+  ],
+  "types": [
+    {
+      "id": 0,
+      "name": "None"
+    },
+    {
+      "id": 2,
+      "name": "Time123"
+    },
+    {
+      "id": 4,
+      "name": "s2"
+    },
+    {
+      "id": 5,
+      "name": "Noneddfd"
+    },
+    {
+      "id": 6,
+      "name": "Coll"
+    }
+  ]
+}
